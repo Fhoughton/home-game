@@ -1,4 +1,4 @@
-## About
+# Home
 
 HOME is an open source browser-based game made for GitHubGameOff 2018 (https://itch.io/jam/game-off-2018) game jam hosted on itch.io. It was written using the PhaserJS game engine.
 
